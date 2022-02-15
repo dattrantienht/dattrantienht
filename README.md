@@ -7,8 +7,6 @@
     alt="dat" /> 
   </p>
 
-<br>
-
 <p><img align="right" src="https://github.com/dattrantienht/dattrantienht/blob/main/dev_coding.gif" alt="dev" /></p>
 
 
@@ -22,13 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+  <a href="mailto:tiendattran.gm@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/trantiendatvn/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/tiendattran.gm/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.youtube.com/channel/UCK05rWCRmnibBOfSsa3phvA"><img src="https://img.shields.io/youtube/channel/subscribers/UCK05rWCRmnibBOfSsa3phvA?logo=youtube&style=plastic" alt="YouTube"/></a>
+	<a href="https://www.reddit.com/user/M4chiavelli"><img src="https://img.shields.io/reddit/user-karma/combined/M4chiavelli?logo=reddit" alt="Reddit"/></a>
+	<a href="https://steamcommunity.com/id/tiendattran/"><img src="https://img.shields.io/twitter/url?label=Steam&logo=steam&style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Flabel%3DSteam%26logo%3Dsteam%26style%3Dplastic%26url%3Dhttps%253A%252F%252Fsteamcommunity.com%252Fid%252Ftiendattran%252F"/></a>
 </p>
 
 <br>
