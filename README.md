@@ -32,46 +32,46 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="android" width="40" height="40" /> 
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
       alt="android" width="40" height="40" /> 
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
       alt="android" width="40" height="40" /> 
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
       alt="android" width="40" height="40" /> 
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/dattrantienht/dattrantienht/main/unity.png"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
       alt="android" width="40" height="40" />
-	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"
       alt="android" width="40" height="40" /> 
 </p>
