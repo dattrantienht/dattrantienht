@@ -10,11 +10,11 @@
 <p><img align="right" src="https://github.com/dattrantienht/dattrantienht/blob/main/coding-boy.gif" alt="dev" /></p>
 
 
-- 🌱 I’m currently learning Software Development and other programming languages
+- 🌱 I’m currently learning Software Development and trying all types of technology.
 
 - 📫 How to reach me **tiendattran.gm@gmail.com**
 
-- ⚡ Fun fact : I use Arch btw.
+- ⚡ Fun fact : I use Arch btw :penguin:.
 
 <br>
 
