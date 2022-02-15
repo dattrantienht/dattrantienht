@@ -7,7 +7,7 @@
     alt="dat" /> 
   </p>
 
-<p><img align="right" src="https://github.com/dattrantienht/dattrantienht/blob/main/dev_coding.gif" alt="dev" /></p>
+<p><img align="right" src="https://github.com/dattrantienht/dattrantienht/blob/main/coding-boy.gif" alt="dev" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
