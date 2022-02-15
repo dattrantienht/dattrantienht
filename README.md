@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tiendattran.gm@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact : I use Arch btw.
 
 <br>
 
@@ -80,7 +80,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dattrantienht&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dattrantienht&theme=algolia" alt="dattrantienht" /></p>
 
 <br>
 <br>
@@ -93,7 +93,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dattrantienht&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dattrantienht&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dattrantienht&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dattrantienht" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -102,7 +102,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dattrantienht&custom_title=dattrantienht's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/dattrantienht"><img alt="dattrantienht's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dattrantienht&custom_title=dattrantienht's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -110,4 +110,4 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dattrantienht&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dattrantienht&layout=compact&theme=algolia" alt="dattrantienht" /></a> </p>
