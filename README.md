@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tiendattran.gm@gmail.com**
 
-- ⚡ Fun fact : I use Arch btw :penguin:.
+
 
 <br>
 
