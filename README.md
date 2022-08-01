@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Software Development and trying all types of technology.
 
-- 📫 How to reach me **tiendattran.gm@gmail.com**
+- 📫 How to reach me **dattrantienht@gmail.com**
 
 
 
